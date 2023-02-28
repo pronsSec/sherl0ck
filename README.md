@@ -22,3 +22,11 @@ Run it anywhere, the output is just a list of matching files:
 
 ![Screenshot 2023-02-27 at 10 33 33 PM](https://user-images.githubusercontent.com/93559326/221773085-72537522-3a33-4b32-86c0-392dddee6b0f.png)
 
+
+
+---
+
+## Usage:
+- pip install tqdm
+- pip install googletrans==4.0.0-rc1
+- python3 sherlock.py
