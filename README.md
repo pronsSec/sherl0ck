@@ -4,7 +4,7 @@
 
 # sherl0ck
 
-Search an entire directory of .eml email files for a word or phrase... in over 100 languages.
+Search an entire directory of .eml email files for a word or phrase... in over 100 languages. You input the search phrase and it translates to the language you choose BEFORE searching to match the email language. Yeah it's sick tbh. 
 
 ![Screenshot 2023-02-27 at 10 35 26 PM](https://user-images.githubusercontent.com/93559326/221773478-4881db95-2036-4e86-9ed5-fb3ae6c6a37d.png)
 
